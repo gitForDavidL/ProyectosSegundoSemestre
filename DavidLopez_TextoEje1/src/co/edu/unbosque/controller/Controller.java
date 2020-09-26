@@ -17,7 +17,7 @@ public class Controller {
 
 	private void funcionar() {
 		view.escribirDato(archivo.gestionarArchivo());
-		archivo.getFile_estudiantes().procesarNomina();
+		archivo.procesarNomina();
 		
 	}
 
