@@ -1,0 +1,11 @@
+#Tue Sep 29 20:17:22 COT 2020
+nombreVentana=Nomina estudiantes
+direccionNomina1=./Data/Nomina1
+direccionNomina2=./DataNomina2
+direccionNomina3=./Data/Nomina3
+maximoRegistros=26
+retencionNomina2=15
+retencionNomina1=10
+tituloDatosPrincipales=|Documento|              |Nombre|                   |Salario|
+retencionNomina3=20
+direccionDatos=./Data/datosprincipales

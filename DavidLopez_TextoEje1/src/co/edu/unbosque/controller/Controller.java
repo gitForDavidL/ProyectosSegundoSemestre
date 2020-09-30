@@ -16,9 +16,13 @@ public class Controller {
 	}
 
 	private void funcionar() {
+
+		archivo.getProperties().escribirPropiedades();
+		view.setNombre(archivo.cambiarNombre());
 		view.escribirDato(archivo.gestionarArchivo());
 		archivo.procesarNomina();
-		
+		archivo.getProperties().leerPropiedades();
+
 	}
 
 }

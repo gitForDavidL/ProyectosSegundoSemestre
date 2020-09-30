@@ -91,7 +91,7 @@ public class File_estudiantes {
 			while (linea != null) {
 				String temp = linea.substring(linea.indexOf(";") + 1);
 				salarios[cont] = Double.parseDouble(temp.substring(temp.indexOf(";")).replaceAll(";", "")
-						.replace(" ", "	").replace((char) 160, (char) 0));
+						.replace(" ", "").replace((char) 160, (char) 0));
 				linea = br.readLine();
 				cont++;
 			}
