@@ -15,7 +15,7 @@ public class Propiedades {
 			prop.setProperty("nombreVentana", "Nomina estudiantes");
 			prop.setProperty("maximoRegistros", "26");
 			prop.setProperty("direccionNomina1", "./Data/Nomina1");
-			prop.setProperty("direccionNomina2", "./DataNomina2");
+			prop.setProperty("direccionNomina2", "./Data/Nomina2");
 			prop.setProperty("direccionNomina3", "./Data/Nomina3");
 			prop.setProperty("retencionNomina1", "10");
 			prop.setProperty("retencionNomina2", "15");
