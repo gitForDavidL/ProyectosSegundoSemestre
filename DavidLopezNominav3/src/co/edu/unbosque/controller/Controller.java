@@ -21,7 +21,7 @@ public class Controller {
 		view.setNombre(archivo.cambiarNombre());
 		view.escribirDato(archivo.gestionarArchivo());
 		archivo.procesarNomina();
-		archivo.getProperties().leerPropiedades();
+	
 	}
 
 }
