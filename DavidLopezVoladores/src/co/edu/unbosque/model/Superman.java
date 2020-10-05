@@ -24,7 +24,7 @@ public class Superman extends Kriptoniano implements Volador {
 
 	public String detenerBalas() {
 
-		return "De tengo balas con mi pecho por que soy  " + super.nombre;
+		return "Detengo balas con mi pecho por que soy  " + super.nombre;
 	}
 
 	public String saltarEdificios() {
@@ -34,7 +34,7 @@ public class Superman extends Kriptoniano implements Volador {
 
 	public String comer() {
 
-		return "Soy kriptoniano pero tambien me aliemento";
+		return "Soy kriptoniano pero tambien me alimento";
 	}
 
 	public String heroeMasFuerte() {
