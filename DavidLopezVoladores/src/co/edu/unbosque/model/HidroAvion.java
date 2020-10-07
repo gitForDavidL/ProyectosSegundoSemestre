@@ -1,6 +1,6 @@
 package co.edu.unbosque.model;
 
-public class HidroAvion extends VehiculoVolador {
+public class HidroAvion extends VehiculoVolador implements Volador{
 
 	public String despegar() {
 
